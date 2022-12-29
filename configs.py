@@ -8,12 +8,12 @@ class Config(object):
     API_ID = int(os.getenv("API_ID", "21229612"))
     API_HASH = os.getenv("API_HASH", "3b0abc151de1cabfac16327b6c0e550a")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5636393512:AAEMHGtXHXVjt5eIashl5ZS6FJOY3M4kbvY")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "shareusofficialrobot")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Mdiskmasterbot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOIYBu4UbI1Tole2uDEsaylKZpA-m8H-um4PwP8IIi4h0EZBXKS1_r47KPSFXOyNbWDCiDVbD70qAMncVDElBKnSADyB9fLBEDxDEKN14MajwoycqrftiXRU8UDb76BbzLNSBgpSqV5WX6focaurPWSbRKaggeJzpEzHbOyn06oK3oZqsR1eKi3bNZG_Ul26fbNVVSdyKf4IGxsK6ikU9eOLTiXu57Yf_BTNNM0k5nr3APslKEW5oezYRF3LDTzOZqhJT2ugHFdP-B1lICxACs9Z_H-lD3-B5ARERxLB8kCePZfxi9sA-1rdXKyxMo0rZ5VliiGEmyu5A-rbsiJ65GuseQuA=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001818830136")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "shareus_official_robot")
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Mdiskmasterbot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "1702305802"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "mdisk_masters")
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "arnabpaul123")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "shareusmovies")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
@@ -34,7 +34,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001815706103"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
-    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "mdisk_master")
+    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "Mdisk_Master")
     FORCE_SUB = os.getenv("FORCE_SUB", "False")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
     MDISK_API = os.getenv("MDISK_API", "5l4m5uuAZHQSppamxenP")
@@ -54,7 +54,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 ᴛᴇʀᴀ ʙᴏx - ᴀɢᴀʀ ᴀᴘᴘᴋᴏ ɴᴀʜɪ ᴘᴀᴛᴀ ᴋɪ ᴛᴇʀᴀʙᴏx sᴇ ᴍᴏᴠɪᴇs ᴋᴀɪsᴇ ᴅᴇᴋʜᴇ ᴛᴏ ɴɪᴄʜᴇ ᴅɪʏᴇ ɢᴀʏᴇ ᴛᴇʀᴀ ʙᴏx ʙᴜᴛᴛᴏɴ ᴘᴀʀ ᴄʟɪᴄᴋ ᴋᴀʀᴇ
 
-ʀᴇɢᴀʀᴅs - @Mdisk_Masters"""
+ʀᴇɢᴀʀᴅs - @arnabpaul123"""
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
@@ -108,7 +108,7 @@ https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
 
 ᴀɢᴀʀ ʙᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴀ ʀᴇQᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ɴʜɪ ᴋᴀʀ ʀᴀʜᴇ ʜᴀɪɴ ᴛᴏ ᴜɴʜᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴍꜱɢ ᴋᴀʀᴇɴ.
 
-👉 @Mdisk_Masters
+👉 @arnabpaul123
 
 """
 
